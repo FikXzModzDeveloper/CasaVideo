@@ -1,0 +1,10 @@
+{
+  "galau": [
+    "https://example.com/video-galau1.mp4",
+    "https://example.com/video-galau2.mp4"
+  ],
+  "randomvid": [
+    "https://example.com/random1.mp4",
+    "https://example.com/random2.mp4"
+  ]
+}
